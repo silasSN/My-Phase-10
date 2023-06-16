@@ -1,0 +1,38 @@
+.rules-normal {
+    background-color: rgb(255, 255, 255);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    border-radius: 20px;
+}
+
+p {
+    padding-right: 20px;
+    padding-left: 20px;
+    color: black;
+}
+.rules-normal h1 {
+    padding-right: 20px;
+    padding-left: 20px;
+    color: black;
+    padding-top: 2%;
+}
+h3 {
+    padding-right: 20px;
+    padding-left: 20px;
+    color: black;
+}
+.rules-normal li {
+    padding-right: 20px;
+    padding-left: 50px;
+    color: black;
+}
+.orginal-site-link-par {
+    padding-bottom: 2%;
+}
+#orginal-site-link {
+    text-decoration: none;
+    color: blue;
+    font-weight: bolder;
+}

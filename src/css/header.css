@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: "Merriweather", sans-serif;
+    background-color: #989899;
+    color: white;
+}
+.h1-header {
+    font-size: 1.4rem;
+}
+
+.header-main {
+    margin: 0;
+    padding: 7 40px;
+    padding-left: 10px;
+    background-color: #4c5a8f;
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.sheets-header li {
+    list-style: none;
+    text-align: center;
+    position: relative;
+    display: block;
+    float: right;
+    padding: 10px;
+    font-size: 1.1rem;
+}
+.sheets-header li a {
+    text-decoration: none;
+    color: white;
+    line-height: 1;
+}
+.sheets-header li a:hover {
+    color: rgb(166, 160, 160);
+}

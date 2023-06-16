@@ -1,0 +1,98 @@
+.rules-hard {
+    background-color: rgb(255, 255, 255);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    border-radius: 20px;
+}
+
+p {
+    padding-right: 20px;
+    padding-left: 20px;
+    color: black;
+}
+.rules-hard h1 {
+    padding-right: 20px;
+    padding-left: 20px;
+    color: black;
+    padding-top: 2%;
+}
+h3 {
+    padding-right: 20px;
+    padding-left: 20px;
+    color: black;
+}
+.rules-hard li {
+    padding-right: 20px;
+    padding-left: 50px;
+    color: black;
+}
+
+.bottom-12 {
+    padding-bottom: 2%;
+}
+.new-phase {
+    text-align: center;
+}
+
+/* .output {
+    font-size: 1.2rem;
+    width: 30%;
+    background-color: #4c5a8f;
+    color: white;
+    margin: auto;
+    padding: 8px;
+    border-radius: 10px;
+    margin-bottom: 1.5%;
+    margin-top: 2%;
+} */
+
+#new-phase-button {
+    font-size: 1rem;
+    color: #4c5a8f;
+    font-weight: bold;
+    border-radius: 9px;
+    margin-left: 3%;
+}
+
+#player-name {
+    text-align: center;
+    width: 7%;
+    font-size: 1rem;
+    border-style: hidden;
+    padding-right: none;
+}
+
+
+#phase-final-bold {
+    font-weight: bold;
+}
+.final-phase {
+    text-align: center;
+    padding-top: 1.5%;
+}
+
+
+.reset-game-div {
+    text-align: center;
+}
+.reset-game {
+    margin: 1.5%;
+    font-size: 1rem;
+    color: #4c5a8f;
+    font-weight: bold;
+    border-radius: 9px;
+}
+.current-phase {
+    margin-left: 3%;
+}
+#current-phase-input {
+    border-style: none;
+    width: 3%;
+    text-align: center;
+    font-size: 1rem;
+}
+.bottom-par-extreme {
+    margin-bottom: 3%;
+}
